@@ -1,5 +1,5 @@
 body {
-    background-image: url('file:///C:/Users/Admin/Desktop/GYMBRO/background.jpg'); /* Шлях до картинки */
+    background-image: url('https://github.com/zhrudpsu/gymbro-website/blob/main/background.jpg'); /* Шлях до картинки */
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
